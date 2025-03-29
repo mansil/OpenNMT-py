@@ -1,4 +1,4 @@
-# Announcement: OpenNMT-py is no longer actively supported.
+# Anúncio: OpenNMT-py já náo é suportado ativamente.
 
 We started a new project [Eole](https://eole-nlp.github.io/eole/) available on [Github](https://github.com/eole-nlp/eole)
 
